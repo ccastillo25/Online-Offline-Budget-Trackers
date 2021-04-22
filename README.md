@@ -2,7 +2,7 @@
 
 Online-Offline-Budget-Tracker help you never lose track of your finances on or offline!! https://arcane-island-40123.herokuapp.com/
 
-<img src="https://github.com/ccastillo25/Online-Offline-Budget-Trackers/blob/main/demophotos/pic1.png?raw=true" alt ="pic">
+<img src="https://github.com/ccastillo25/Online-Offline-Budget-Trackers/blob/main/demo%20photos/pic1.png?raw=true" alt ="pic">
 
 ## Installation
 
